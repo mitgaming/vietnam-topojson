@@ -5,7 +5,7 @@
       "type": "Feature",
       "properties": {
         "Ten_Tinh": "Đồng Nai",
-        "Ten_Huyen": "Biên Hoà",
+        "Ten_Huyen": "Biên Hoà"
       },
       "geometry": {
         "type": "Polygon",
